@@ -23,3 +23,8 @@ Based on this, this project uses C++ templates to extend data types, supporting 
 元のプロジェクトはC#言語で、Unity3DのクラスVector、Quaternion、Matrixのfloatタイプを元より精度の高い空間計算ができるよう、doubleタイプに変更しました。
 
 これに基づいて、このプロジェクトはC++テンプレートを使用し、各種データ型の空間計算ができます。
+
+------------------------------------------------------------------------------------------------------
+                                Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
